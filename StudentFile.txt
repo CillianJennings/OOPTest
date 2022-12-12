@@ -1,0 +1,5 @@
+Student Details: Name: Cillian
+Address: Barna
+Age: 20
+IDNumber: 5050505
+
